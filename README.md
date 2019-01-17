@@ -1,2 +1,4 @@
-# auth
-The auth API for Draftapp.io
+# Services
+The services API for Draftapp.io
+
+1. auth
